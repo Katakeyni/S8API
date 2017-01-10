@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">S8API</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="getversionstr">get version</string>
+    <string name="Magneticcardstr">MSR test</string>
+    <string name="printstr">printer test</string>
+    <string name="psam">PSAM test</string>
+    <string name="ICcard">EMV test</string>
+    <string name="usbctrl">HOST</string>
+    <string name="update">update</string>
+    <string name="cleanstr">clean</string>
+    <string name="more">Show more</string>
+    <string name="hide">Hide more</string>
+    <string name="showmsg">update success!</string>
+    <string name="scanner">scanning</string>
+    <string name="openLight">Open Light</string>
+    <string name="closeLight">Close Light</string>
+    <string name="iscontinu">Continu</string>
+    <string name="nocontinu">Single</string>
+    <string name="close">CLOSE</string>
+    <string name="WebView">WebView</string>
+    <string name="showtext">welcome!</string>
+    <string name="rfid">frid</string>
+
+
+    <string name="jianyi">Recommended to keep 10cm distance with lens</string>
+</resources>

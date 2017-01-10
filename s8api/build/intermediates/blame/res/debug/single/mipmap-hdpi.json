@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/test2dbarcode.png",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/test2dbarcode.png"
+    },
+    {
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/szxb.png",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/szxb.png"
+    }
+]

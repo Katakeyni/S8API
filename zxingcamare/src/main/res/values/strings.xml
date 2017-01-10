@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZxingCamare</string>
+    <!-- add by wj 2014.12.1 -->
+    <string name="open_light">开灯</string>
+    <string name="close_light">关灯</string>
+    <!-- end by wj 2014.12.1 -->
+</resources>
