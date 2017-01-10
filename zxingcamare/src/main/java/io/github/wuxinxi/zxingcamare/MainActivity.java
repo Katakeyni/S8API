@@ -8,28 +8,29 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import butterknife.BindView;
 import butterknife.ButterKnife;
-import butterknife.InjectView;
+
 import butterknife.OnClick;
 
 public class MainActivity extends AppCompatActivity {
 
-    @InjectView(R.id.btn_scan_barcode)
+    @BindView(R.id.btn_scan_barcode)
     Button btnScanBarcode;
-    @InjectView(R.id.tv_scan_result)
+    @BindView(R.id.tv_scan_result)
     TextView tvScanResult;
-    @InjectView(R.id.et_qr_string)
+    @BindView(R.id.et_qr_string)
     EditText etQrString;
-    @InjectView(R.id.btn_add_qrcode)
+    @BindView(R.id.btn_add_qrcode)
     Button btnAddQrcode;
-    @InjectView(R.id.iv_qr_image)
+    @BindView(R.id.iv_qr_image)
     ImageView ivQrImage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        ButterKnife.inject(this);
+        ButterKnife.bind(this);
     }
 
     @OnClick({R.id.btn_scan_barcode, R.id.btn_add_qrcode})

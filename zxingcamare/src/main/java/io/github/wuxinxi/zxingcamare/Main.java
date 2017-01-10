@@ -13,8 +13,9 @@ import android.widget.Toast;
 import com.szxb.zxing.activity.CaptureFragment;
 import com.szxb.zxing.activity.CodeUtils;
 
+import butterknife.BindView;
 import butterknife.ButterKnife;
-import butterknife.InjectView;
+
 
 /**
  * 作者：Tangren_ on 2016/12/27 0027.
@@ -24,17 +25,17 @@ import butterknife.InjectView;
 
 
 public class Main extends AppCompatActivity {
-    @InjectView(R.id.fl_my_container)
+    @BindView(R.id.fl_my_container)
     FrameLayout flMyContainer;
-    @InjectView(R.id.image)
+    @BindView(R.id.image)
     ImageView image;
-    @InjectView(R.id.jianyi)
+    @BindView(R.id.jianyi)
     TextView jianyi;
-    @InjectView(R.id.mainsweep)
+    @BindView(R.id.mainsweep)
     Button mainsweep;
-    @InjectView(R.id.checkOrder)
+    @BindView(R.id.checkOrder)
     Button checkOrder;
-    @InjectView(R.id.activity_second)
+    @BindView(R.id.activity_second)
     FrameLayout activitySecond;
 
     private CaptureFragment captureFragment;
@@ -43,7 +44,7 @@ public class Main extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_view);
-        ButterKnife.inject(this);
+        ButterKnife.bind(this);
 
         captureFragment = new CaptureFragment();
         CodeUtils.setFragmentArgs(captureFragment, R.layout.my_camera);

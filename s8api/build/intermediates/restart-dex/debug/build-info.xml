@@ -5,7 +5,7 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="35330494719461"
+    timestamp="35885968096682"
     token="1185357971112674686"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -30,7 +30,7 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="35330494719461"
+        timestamp="35885968096682"
         verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
