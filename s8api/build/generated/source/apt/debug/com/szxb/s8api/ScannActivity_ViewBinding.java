@@ -17,9 +17,9 @@ import java.lang.Override;
 public class ScannActivity_ViewBinding<T extends ScannActivity> implements Unbinder {
   protected T target;
 
-  private View view2131558534;
-
   private View view2131558535;
+
+  private View view2131558536;
 
   @UiThread
   public ScannActivity_ViewBinding(final T target, View source) {
@@ -30,7 +30,7 @@ public class ScannActivity_ViewBinding<T extends ScannActivity> implements Unbin
     target.jianyi = Utils.findRequiredViewAsType(source, R.id.jianyi, "field 'jianyi'", TextView.class);
     view = Utils.findRequiredView(source, R.id.light, "field 'light' and method 'onClick'");
     target.light = Utils.castView(view, R.id.light, "field 'light'", Button.class);
-    view2131558534 = view;
+    view2131558535 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -39,7 +39,7 @@ public class ScannActivity_ViewBinding<T extends ScannActivity> implements Unbin
     });
     view = Utils.findRequiredView(source, R.id.close, "field 'close' and method 'onClick'");
     target.close = Utils.castView(view, R.id.close, "field 'close'", Button.class);
-    view2131558535 = view;
+    view2131558536 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -63,10 +63,10 @@ public class ScannActivity_ViewBinding<T extends ScannActivity> implements Unbin
     target.activitySecond = null;
     target.mtoolbar = null;
 
-    view2131558534.setOnClickListener(null);
-    view2131558534 = null;
     view2131558535.setOnClickListener(null);
     view2131558535 = null;
+    view2131558536.setOnClickListener(null);
+    view2131558536 = null;
 
     this.target = null;
   }

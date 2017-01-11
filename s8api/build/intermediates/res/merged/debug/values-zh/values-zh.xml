@@ -17,6 +17,7 @@
     <string name="more">显示更多</string>
     <string name="nocontinu">单次</string>
     <string name="openLight">开灯</string>
+    <string name="printText">打印文字图片--测试</string>
     <string name="printstr">打印测试</string>
     <string name="psam">PSAM卡测试</string>
     <string name="rfid">非接卡</string>
@@ -26,7 +27,7 @@
     <string name="update">更新固件</string>
     <string name="usbctrl">HOST</string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>

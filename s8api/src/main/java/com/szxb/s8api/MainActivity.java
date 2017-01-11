@@ -170,8 +170,8 @@ public class MainActivity extends AppCompatActivity {
 //                                MainActivity.this.getResources(),
 //                                R.mipmap.test2dbarcode);
 //
-                        api_interface.printertest();
                         api_interface.printBitmap(bitmap, 0, 0);
+                        api_interface.printertest();
                         textViewHide.destroyDrawingCache();
                         //                    api_interface.printerStr(test.getBytes());
 

@@ -1931,13 +1931,13 @@ public final class R2 {
 
   public static final class id {
     @IdRes
-    public static final int ICcard = 0x7f0d0080;
+    public static final int ICcard = 0x7f0d0081;
 
     @IdRes
-    public static final int Magneticcard = 0x7f0d007c;
+    public static final int Magneticcard = 0x7f0d007d;
 
     @IdRes
-    public static final int action0 = 0x7f0d0095;
+    public static final int action0 = 0x7f0d0096;
 
     @IdRes
     public static final int action_bar = 0x7f0d0069;
@@ -1964,7 +1964,7 @@ public final class R2 {
     public static final int action_context_bar = 0x7f0d006a;
 
     @IdRes
-    public static final int action_divider = 0x7f0d0099;
+    public static final int action_divider = 0x7f0d009a;
 
     @IdRes
     public static final int action_menu_divider = 0x7f0d0002;
@@ -1985,10 +1985,10 @@ public final class R2 {
     public static final int activity_chooser_view_content = 0x7f0d004b;
 
     @IdRes
-    public static final int activity_second = 0x7f0d0083;
+    public static final int activity_second = 0x7f0d0084;
 
     @IdRes
-    public static final int activity_web_view = 0x7f0d0088;
+    public static final int activity_web_view = 0x7f0d0089;
 
     @IdRes
     public static final int add = 0x7f0d0026;
@@ -2015,7 +2015,7 @@ public final class R2 {
     public static final int buttonPanel = 0x7f0d0052;
 
     @IdRes
-    public static final int cancel_action = 0x7f0d0096;
+    public static final int cancel_action = 0x7f0d0097;
 
     @IdRes
     public static final int center = 0x7f0d002e;
@@ -2030,10 +2030,10 @@ public final class R2 {
     public static final int checkbox = 0x7f0d0060;
 
     @IdRes
-    public static final int chronometer = 0x7f0d009c;
+    public static final int chronometer = 0x7f0d009d;
 
     @IdRes
-    public static final int clean = 0x7f0d0082;
+    public static final int clean = 0x7f0d0083;
 
     @IdRes
     public static final int clip_horizontal = 0x7f0d0039;
@@ -2042,7 +2042,7 @@ public final class R2 {
     public static final int clip_vertical = 0x7f0d003a;
 
     @IdRes
-    public static final int close = 0x7f0d0087;
+    public static final int close = 0x7f0d0088;
 
     @IdRes
     public static final int collapseActionView = 0x7f0d0042;
@@ -2072,19 +2072,19 @@ public final class R2 {
     public static final int default_activity_button = 0x7f0d004e;
 
     @IdRes
-    public static final int design_bottom_sheet = 0x7f0d008b;
+    public static final int design_bottom_sheet = 0x7f0d008c;
 
     @IdRes
-    public static final int design_menu_item_action_area = 0x7f0d0092;
+    public static final int design_menu_item_action_area = 0x7f0d0093;
 
     @IdRes
-    public static final int design_menu_item_action_area_stub = 0x7f0d0091;
+    public static final int design_menu_item_action_area_stub = 0x7f0d0092;
 
     @IdRes
-    public static final int design_menu_item_text = 0x7f0d0090;
+    public static final int design_menu_item_text = 0x7f0d0091;
 
     @IdRes
-    public static final int design_navigation_view = 0x7f0d008f;
+    public static final int design_navigation_view = 0x7f0d0090;
 
     @IdRes
     public static final int disableHome = 0x7f0d001a;
@@ -2102,7 +2102,7 @@ public final class R2 {
     public static final int end = 0x7f0d0031;
 
     @IdRes
-    public static final int end_padder = 0x7f0d00a1;
+    public static final int end_padder = 0x7f0d00a2;
 
     @IdRes
     public static final int enterAlways = 0x7f0d0021;
@@ -2132,10 +2132,10 @@ public final class R2 {
     public static final int fixed = 0x7f0d0046;
 
     @IdRes
-    public static final int fl_my_container = 0x7f0d0084;
+    public static final int fl_my_container = 0x7f0d0085;
 
     @IdRes
-    public static final int getversion = 0x7f0d007a;
+    public static final int getversion = 0x7f0d007b;
 
     @IdRes
     public static final int home = 0x7f0d000a;
@@ -2144,7 +2144,7 @@ public final class R2 {
     public static final int homeAsUp = 0x7f0d001b;
 
     @IdRes
-    public static final int host = 0x7f0d00a3;
+    public static final int host = 0x7f0d00a4;
 
     @IdRes
     public static final int icon = 0x7f0d0050;
@@ -2156,13 +2156,13 @@ public final class R2 {
     public static final int image = 0x7f0d004d;
 
     @IdRes
-    public static final int info = 0x7f0d00a0;
+    public static final int info = 0x7f0d00a1;
 
     @IdRes
     public static final int item_touch_helper_previous_elevation = 0x7f0d000b;
 
     @IdRes
-    public static final int jianyi = 0x7f0d0085;
+    public static final int jianyi = 0x7f0d0086;
 
     @IdRes
     public static final int launch_product_query = 0x7f0d000c;
@@ -2171,13 +2171,13 @@ public final class R2 {
     public static final int left = 0x7f0d0033;
 
     @IdRes
-    public static final int light = 0x7f0d0086;
+    public static final int light = 0x7f0d0087;
 
     @IdRes
-    public static final int line1 = 0x7f0d009a;
+    public static final int line1 = 0x7f0d009b;
 
     @IdRes
-    public static final int line3 = 0x7f0d009e;
+    public static final int line3 = 0x7f0d009f;
 
     @IdRes
     public static final int listMode = 0x7f0d0017;
@@ -2186,7 +2186,7 @@ public final class R2 {
     public static final int list_item = 0x7f0d004f;
 
     @IdRes
-    public static final int media_actions = 0x7f0d0098;
+    public static final int media_actions = 0x7f0d0099;
 
     @IdRes
     public static final int middle = 0x7f0d0040;
@@ -2195,13 +2195,13 @@ public final class R2 {
     public static final int mini = 0x7f0d003e;
 
     @IdRes
-    public static final int mtoolbar = 0x7f0d00a2;
+    public static final int mtoolbar = 0x7f0d00a3;
 
     @IdRes
     public static final int multiply = 0x7f0d0027;
 
     @IdRes
-    public static final int navigation_header_container = 0x7f0d008e;
+    public static final int navigation_header_container = 0x7f0d008f;
 
     @IdRes
     public static final int never = 0x7f0d0044;
@@ -2222,13 +2222,13 @@ public final class R2 {
     public static final int pin = 0x7f0d0038;
 
     @IdRes
-    public static final int preview_view = 0x7f0d0093;
+    public static final int preview_view = 0x7f0d0094;
 
     @IdRes
-    public static final int print = 0x7f0d007e;
+    public static final int print = 0x7f0d007f;
 
     @IdRes
-    public static final int progressBar = 0x7f0d0089;
+    public static final int progressBar = 0x7f0d008a;
 
     @IdRes
     public static final int progress_circular = 0x7f0d000d;
@@ -2240,7 +2240,7 @@ public final class R2 {
     public static final int progressbar = 0x7f0d0078;
 
     @IdRes
-    public static final int psam = 0x7f0d007f;
+    public static final int psam = 0x7f0d0080;
 
     @IdRes
     public static final int quit = 0x7f0d000f;
@@ -2255,13 +2255,13 @@ public final class R2 {
     public static final int return_scan_result = 0x7f0d0011;
 
     @IdRes
-    public static final int rfid = 0x7f0d007d;
+    public static final int rfid = 0x7f0d007e;
 
     @IdRes
     public static final int right = 0x7f0d0034;
 
     @IdRes
-    public static final int scanner = 0x7f0d007b;
+    public static final int scanner = 0x7f0d007c;
 
     @IdRes
     public static final int screen = 0x7f0d0028;
@@ -2336,10 +2336,10 @@ public final class R2 {
     public static final int showtext = 0x7f0d0079;
 
     @IdRes
-    public static final int snackbar_action = 0x7f0d008d;
+    public static final int snackbar_action = 0x7f0d008e;
 
     @IdRes
-    public static final int snackbar_text = 0x7f0d008c;
+    public static final int snackbar_text = 0x7f0d008d;
 
     @IdRes
     public static final int snap = 0x7f0d0025;
@@ -2363,7 +2363,7 @@ public final class R2 {
     public static final int start = 0x7f0d0035;
 
     @IdRes
-    public static final int status_bar_latest_event_content = 0x7f0d0097;
+    public static final int status_bar_latest_event_content = 0x7f0d0098;
 
     @IdRes
     public static final int submenuarrow = 0x7f0d0063;
@@ -2375,16 +2375,19 @@ public final class R2 {
     public static final int tabMode = 0x7f0d0019;
 
     @IdRes
-    public static final int text = 0x7f0d009f;
+    public static final int text = 0x7f0d00a0;
 
     @IdRes
-    public static final int text2 = 0x7f0d009d;
+    public static final int text2 = 0x7f0d009e;
 
     @IdRes
     public static final int textSpacerNoButtons = 0x7f0d005b;
 
     @IdRes
-    public static final int time = 0x7f0d009b;
+    public static final int textViewHide = 0x7f0d007a;
+
+    @IdRes
+    public static final int time = 0x7f0d009c;
 
     @IdRes
     public static final int title = 0x7f0d0051;
@@ -2399,13 +2402,13 @@ public final class R2 {
     public static final int topPanel = 0x7f0d0055;
 
     @IdRes
-    public static final int touch_outside = 0x7f0d008a;
+    public static final int touch_outside = 0x7f0d008b;
 
     @IdRes
     public static final int up = 0x7f0d0015;
 
     @IdRes
-    public static final int update = 0x7f0d00a4;
+    public static final int update = 0x7f0d00a5;
 
     @IdRes
     public static final int useLogo = 0x7f0d0020;
@@ -2414,10 +2417,10 @@ public final class R2 {
     public static final int view_offset_helper = 0x7f0d0016;
 
     @IdRes
-    public static final int viewfinder_view = 0x7f0d0094;
+    public static final int viewfinder_view = 0x7f0d0095;
 
     @IdRes
-    public static final int webview = 0x7f0d0081;
+    public static final int webview = 0x7f0d0082;
 
     @IdRes
     public static final int withText = 0x7f0d0045;
@@ -2487,40 +2490,40 @@ public final class R2 {
     public static final int abc_capital_on = 0x7f070009;
 
     @StringRes
-    public static final int abc_font_family_body_1_material = 0x7f07002c;
+    public static final int abc_font_family_body_1_material = 0x7f07002d;
 
     @StringRes
-    public static final int abc_font_family_body_2_material = 0x7f07002d;
+    public static final int abc_font_family_body_2_material = 0x7f07002e;
 
     @StringRes
-    public static final int abc_font_family_button_material = 0x7f07002e;
+    public static final int abc_font_family_button_material = 0x7f07002f;
 
     @StringRes
-    public static final int abc_font_family_caption_material = 0x7f07002f;
+    public static final int abc_font_family_caption_material = 0x7f070030;
 
     @StringRes
-    public static final int abc_font_family_display_1_material = 0x7f070030;
+    public static final int abc_font_family_display_1_material = 0x7f070031;
 
     @StringRes
-    public static final int abc_font_family_display_2_material = 0x7f070031;
+    public static final int abc_font_family_display_2_material = 0x7f070032;
 
     @StringRes
-    public static final int abc_font_family_display_3_material = 0x7f070032;
+    public static final int abc_font_family_display_3_material = 0x7f070033;
 
     @StringRes
-    public static final int abc_font_family_display_4_material = 0x7f070033;
+    public static final int abc_font_family_display_4_material = 0x7f070034;
 
     @StringRes
-    public static final int abc_font_family_headline_material = 0x7f070034;
+    public static final int abc_font_family_headline_material = 0x7f070035;
 
     @StringRes
-    public static final int abc_font_family_menu_material = 0x7f070035;
+    public static final int abc_font_family_menu_material = 0x7f070036;
 
     @StringRes
-    public static final int abc_font_family_subhead_material = 0x7f070036;
+    public static final int abc_font_family_subhead_material = 0x7f070037;
 
     @StringRes
-    public static final int abc_font_family_title_material = 0x7f070037;
+    public static final int abc_font_family_title_material = 0x7f070038;
 
     @StringRes
     public static final int abc_search_hint = 0x7f07000a;
@@ -2556,13 +2559,13 @@ public final class R2 {
     public static final int app_name = 0x7f070019;
 
     @StringRes
-    public static final int appbar_scrolling_view_behavior = 0x7f070038;
+    public static final int appbar_scrolling_view_behavior = 0x7f070039;
 
     @StringRes
-    public static final int bottom_sheet_behavior = 0x7f070039;
+    public static final int bottom_sheet_behavior = 0x7f07003a;
 
     @StringRes
-    public static final int character_counter_pattern = 0x7f07003a;
+    public static final int character_counter_pattern = 0x7f07003b;
 
     @StringRes
     public static final int cleanstr = 0x7f07001a;
@@ -2595,33 +2598,36 @@ public final class R2 {
     public static final int openLight = 0x7f070023;
 
     @StringRes
-    public static final int printstr = 0x7f070024;
+    public static final int printText = 0x7f070024;
 
     @StringRes
-    public static final int psam = 0x7f070025;
+    public static final int printstr = 0x7f070025;
 
     @StringRes
-    public static final int rfid = 0x7f070026;
+    public static final int psam = 0x7f070026;
 
     @StringRes
-    public static final int scanner = 0x7f070027;
+    public static final int rfid = 0x7f070027;
+
+    @StringRes
+    public static final int scanner = 0x7f070028;
 
     @StringRes
     public static final int search_menu_title = 0x7f070013;
 
     @StringRes
-    public static final int showmsg = 0x7f070028;
+    public static final int showmsg = 0x7f070029;
 
     @StringRes
-    public static final int showtext = 0x7f070029;
+    public static final int showtext = 0x7f07002a;
 
     @StringRes
     public static final int status_bar_notification_info_overflow = 0x7f070014;
 
     @StringRes
-    public static final int update = 0x7f07002a;
+    public static final int update = 0x7f07002b;
 
     @StringRes
-    public static final int usbctrl = 0x7f07002b;
+    public static final int usbctrl = 0x7f07002c;
   }
 }

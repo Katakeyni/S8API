@@ -28,6 +28,7 @@
             android:id="@+id/showtext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@null"
             android:enabled="false"
             android:text="@string/showtext"
             android:textColor="#11bb55"
@@ -39,48 +40,56 @@
         android:layout_height="0dip"
         android:layout_weight="1">
 
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
+            <TextView
+                android:id="@+id/textViewHide"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/printText"
+                android:textSize="20sp"
+                android:visibility="gone" />
             <Button
                 android:id="@+id/getversion"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
-                android:layout_margin="10dp"
                 android:text="@string/getversionstr" />
 
             <Button
                 android:id="@+id/scanner"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
+                android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
                 android:text="@string/scanner" />
 
             <Button
                 android:id="@+id/Magneticcard"
                 android:layout_width="match_parent"
-                android:layout_margin="10dp"
                 android:layout_height="wrap_content"
+                android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
                 android:text="@string/Magneticcardstr" />
 
             <Button
                 android:id="@+id/rfid"
                 android:layout_width="match_parent"
-                android:layout_margin="10dp"
                 android:layout_height="wrap_content"
+                android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
                 android:text="@string/rfid" />
 
             <Button
                 android:id="@+id/print"
                 android:layout_width="match_parent"
-                android:layout_margin="10dp"
                 android:layout_height="wrap_content"
+                android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
                 android:text="@string/printstr" />
 
@@ -88,7 +97,7 @@
                 android:id="@+id/psam"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
+                android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
                 android:text="@string/psam" />
 
@@ -96,7 +105,7 @@
                 android:id="@+id/ICcard"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
+                android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
                 android:text="@string/ICcard" />
 
@@ -104,7 +113,7 @@
                 android:id="@+id/webview"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
+                android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
                 android:text="@string/WebView" />
 
@@ -112,7 +121,7 @@
                 android:id="@+id/clean"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
+                android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
                 android:text="@string/cleanstr" />
 
