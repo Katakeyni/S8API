@@ -3,7 +3,6 @@ package com.szxb.s8api;
 import android.content.Intent;
 import android.content.res.AssetManager;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -14,6 +13,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
+import android.widget.TextView;
 
 import com.szxb.api.jni_interface.api_interface;
 
@@ -46,8 +46,8 @@ public class MainActivity extends AppCompatActivity {
     Button clean;
     @BindView(R.id.webview)
     Button webview;
-
-
+    @BindView(R.id.textViewHide)
+    TextView textViewHide;
 
     public static final int MSG = 1;
     private MenuItem menuItem = null;
@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @OnClick({R.id.getversion, R.id.scanner, R.id.Magneticcard, R.id.print, R.id.psam,
-            R.id.ICcard, R.id.clean, R.id.webview,R.id.rfid})
+            R.id.ICcard, R.id.clean, R.id.webview, R.id.rfid})
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.getversion:
@@ -119,42 +119,34 @@ public class MainActivity extends AppCompatActivity {
             case R.id.rfid:
                 byte[] recv = new byte[5];
 
-                String str=api_interface.MifareGetSNR(recv);
-                if(null != str)
-                {
+                String str = api_interface.MifareGetSNR(recv);
+                if (null != str) {
                     showTV.append(str);
                     showTV.append("\r\n");
 
-                    if((recv[2]&0x20) != 0)
-                    {
+                    if ((recv[2] & 0x20) != 0) {
                         showTV.append("cpu card!");
                         showTV.append("\r\n");
 
-                        String rats= api_interface.TypeA_RATS();
-                        if(rats != null)
-                        {
+                        String rats = api_interface.TypeA_RATS();
+                        if (rats != null) {
                             showTV.append(rats);
                             showTV.append("\r\n");
                         }
 
-                        String[] sapdu=api_interface.RFID_APDU(new String("0084000004"));
+                        String[] sapdu = api_interface.RFID_APDU(new String("0084000004"));
 
-                        if(sapdu != null)
-                        {
-                            if(sapdu[0] != null)
-                            {
+                        if (sapdu != null) {
+                            if (sapdu[0] != null) {
                                 showTV.append(sapdu[0]);
                                 showTV.append("\r\n");
                             }
-                            if(sapdu[1] != null)
-                            {
+                            if (sapdu[1] != null) {
                                 showTV.append(sapdu[1]);
                                 showTV.append("\r\n");
                             }
                         }
-                    }
-                    else
-                    {
+                    } else {
                         showTV.append("m1 card!");
                     }
                     showTV.append("\r\n");
@@ -168,15 +160,20 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void run() {
 
-                        api_interface.printertest();
+                        textViewHide.setDrawingCacheEnabled(true);
+                        textViewHide.measure(View.MeasureSpec.makeMeasureSpec(0, View.MeasureSpec.UNSPECIFIED)
+                                , View.MeasureSpec.makeMeasureSpec(0, View.MeasureSpec.UNSPECIFIED));
+                        textViewHide.layout(0, 0, textViewHide.getMeasuredWidth(), textViewHide.getMeasuredHeight());
+                        Bitmap bitmap = textViewHide.getDrawingCache();
 //
 //                        Bitmap bm = BitmapFactory.decodeResource(
 //                                MainActivity.this.getResources(),
 //                                R.mipmap.test2dbarcode);
 //
-//                        api_interface.printBitmap(bm, 0, 0);
-
-    //                    api_interface.printerStr(test.getBytes());
+                        api_interface.printertest();
+                        api_interface.printBitmap(bitmap, 0, 0);
+                        textViewHide.destroyDrawingCache();
+                        //                    api_interface.printerStr(test.getBytes());
 
                         runOnUiThread(new Runnable() {
 

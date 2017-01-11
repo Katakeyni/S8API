@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ContentProvider.iml" filepath="$PROJECT_DIR$/ContentProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8Pament.iml" filepath="$PROJECT_DIR$/S8Pament.iml" />
       <module fileurl="file://$PROJECT_DIR$/s8api/s8api.iml" filepath="$PROJECT_DIR$/s8api/s8api.iml" />
       <module fileurl="file://$PROJECT_DIR$/xbzxinglibrary/xbzxinglibrary.iml" filepath="$PROJECT_DIR$/xbzxinglibrary/xbzxinglibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/zxingcamare/zxingcamare.iml" filepath="$PROJECT_DIR$/zxingcamare/zxingcamare.iml" />

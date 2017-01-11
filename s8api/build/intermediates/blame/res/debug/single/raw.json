@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/raw/beep.ogg",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/ContentProvider/xbzxinglibrary/unspecified/res/raw/beep.ogg"
+        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\ContentProvider\\xbzxinglibrary\\unspecified\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\S8Pament\\xbzxinglibrary\\unspecified\\res\\raw\\beep.ogg"
     }
 ]

@@ -11,21 +11,22 @@
     <string name="update">更新固件</string>
     <string name="cleanstr">清除</string>
     <string name="showmsg">更新成功!</string>
-     <string name="more">显示更多</string>
-     <string name="hide">隐藏更多</string>
+    <string name="more">显示更多</string>
+    <string name="hide">隐藏更多</string>
     <string name="scanner">扫描</string>
     <string name="WebView">打开网页</string>
     <string name="showtext">欢迎使用!</string>
-    
+
     <string name="openLight">开灯</string>
     <string name="closeLight">关灯</string>
     <string name="iscontinu">连续</string>
     <string name="nocontinu">单次</string>
 
     <string name="jianyi">建议与镜头保持10cm距离</string>
-    
+
     <string name="close">退出</string>
 
+    <string name="printText">打印文字图片--测试</string>
     <string name="rfid">非接卡</string>
-    
+
 </resources>

@@ -3,11 +3,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin">
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
 
     <ProgressBar
         android:id="@+id/progressbar"
@@ -28,8 +28,9 @@
             android:id="@+id/showtext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/showtext"
+            android:background="@null"
             android:enabled="false"
+            android:text="@string/showtext"
             android:textColor="#11bb55"
             android:textSize="24sp" />
     </ScrollView>
@@ -38,6 +39,14 @@
         android:layout_width="fill_parent"
         android:layout_height="0dip"
         android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/textViewHide"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/printText"
+            android:textSize="25sp"
+            android:visibility="gone" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -48,51 +57,72 @@
                 android:id="@+id/getversion"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_selector"
                 android:text="@string/getversionstr" />
 
             <Button
                 android:id="@+id/scanner"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_selector"
                 android:text="@string/scanner" />
 
             <Button
                 android:id="@+id/Magneticcard"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_selector"
                 android:text="@string/Magneticcardstr" />
 
             <Button
                 android:id="@+id/rfid"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_selector"
                 android:text="@string/rfid" />
 
             <Button
                 android:id="@+id/print"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_selector"
                 android:text="@string/printstr" />
 
             <Button
                 android:id="@+id/psam"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_selector"
                 android:text="@string/psam" />
+
             <Button
                 android:id="@+id/ICcard"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_selector"
                 android:text="@string/ICcard" />
+
             <Button
                 android:id="@+id/webview"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_selector"
                 android:text="@string/WebView" />
+
             <Button
                 android:id="@+id/clean"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_selector"
                 android:text="@string/cleanstr" />
 
         </LinearLayout>

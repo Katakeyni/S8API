@@ -2,418 +2,202 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_fde36fec9cfd3b6097592c8c00d97ec08c135d92/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_70dfd949cc644c7b9594b5f0468a3cb801c9ee3e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9cd409b17c7c4481d1064ce8701b0da803f05123/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_591c2c67508623a84d014d50d52014630f34c3bf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="76c94ebf9262e2cd85855042d86912aab5e4af53">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_94cb19e854f412103461a72a143043468b10f9f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d0108b5f71bbf617869eff38bcb52be469c138eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2c68acca54b365a9bef017bb873f16698ec83d96/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_06930b0829b2138936cab3fc1399ed7e4eeee460/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_6146f4cddaf2ea982c77700ff9f093cbce361a76/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/ContentProvider/xbzxinglibrary/unspecified/jars/libs/zxing.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2d5ab89db945b0470f55ba66bd5d27a838a6c44f">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/8/zxing_9049ebe49d3f9201ebbd3caf401d5426a5fc95ec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f52e038645d86fe739b50122bdd49fa570d73ef5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_0355de98311aa8dc381c1b7b1eb1990a9bd18273/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_3e9f78fcc983e9f6ddb3b8a9cc4a76d2ac51d02a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_8288b86c54548086a3b92ee97e2a6d2518d88f29/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.androidadvance/topsnackbar/1.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cb3cf97748344da6fad1deb830c7c479a7c53645">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.androidadvance-topsnackbar-1.1.1_da212ce77d9547867ff4bb20bab07b5868ad9111/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0f7652bc760448ab294c846024f0811e23aab975/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_428a339722e9c5b6bf1d859435c5540e4f2d1614/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7da15790e4c6d81d00bfc542d8f83d0543e4aa7e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_48cec685450af7949b2da2176defa6798715a39c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.androidadvance/topsnackbar/1.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb3cf97748344da6fad1deb830c7c479a7c53645">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.androidadvance-topsnackbar-1.1.1_276fcb7badf9d9ffcfea4a56ce6aec836c6c6a37/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ac9c2a213c74747f02e48e18243cd53d78c0a5bb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_e6e840d278ed08c1bb9b9ba757964cce2156d8cc/classes.dex" />
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_1e56a10bb63e0f339139fd38c212999ce9962dd2.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_d626967888ffba55db0683933a107c39109d1ac8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_c42d5e1d4b0838b790148ea45618b46fac35e62f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_58631ccdec7c7c68319e2eb0d1f6b773ebd06405/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_9aecf48c308cdc54271898e5c0f63cc2baf6b998/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a7ec712114d3545f6b1eaff6eeb4ae66745447a8">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f66493602fc4d47c92de2897a3e668824b260701/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_664d5a68b5fcd63da5d71683921085a1ade29f53/classes.dex" />
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_94346818234f9cd810c974234b0e6d135c70c445.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_3c2de9026aa910ed4788587926a0ada0c0248e43/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_516059eb4189f0de717432a04e9da0e4daa78ef3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/ContentProvider/xbzxinglibrary/unspecified/jars/libs/zxing.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2d5ab89db945b0470f55ba66bd5d27a838a6c44f">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/8/zxing_19885a77e9fdf5b982946e86fb13692bd20a622d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_c31e78dff81381eb12e401d94d23305dd9533db0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_960c16e7e066f876df1c5bf02e6b51dd35e4c502/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_220fd9a5da25cfe3d8788babfa6c012ebb8b8036/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_1e99896115ee98863ff192d2733f9c0d85af43c3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_b0dd56803510ba6e35c5e35562e8305bf5e30f13/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9cd409b17c7c4481d1064ce8701b0da803f05123/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0d3858c1c1ecb9ae4c450ec8eec955e75907498f">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_16331ed96ac3b28be0b5858287c14575834934f3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6efcebfb815a6065788a5fe247e4ac715f51eb68">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/zxingcamare/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3507162929d198027247d121a98b98df7b4bb41/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cd8c52ad60e838e46bf69cb3af3e87fda5191e27/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_bfc2c0f50320f052260667607bc104ad8df93a6f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_09a779fc90072bf481a5eae33017806e03b97406/classes.dex" />
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_87aa05a990eee2954596baa1c2ca1d1f41ac9c0a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b263ec915621949f06e09136cf437645f6e63197/classes.dex" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_547b8c4ba014cd29c73ec1c3c1f344804e0b7722.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/lilei/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_c31e78dff81381eb12e401d94d23305dd9533db0/classes.dex" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d2b5274fcb381d693683c7459f76aabc2e297851.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_90eb036295b2eea13963fc215b91528838c45ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\S8Pament\xbzxinglibrary\unspecified\jars\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5ab89db945b0470f55ba66bd5d27a838a6c44f">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\zxing_49a8b794d65cfa1b9de127b8ef4f8660eed09d58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_59c6b899fa98348edd27df09b9b23bf3c6a243bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_9cbde01db8068d51981a59f2ed9acee141642d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5a5296dffaf96969c8adc762d641d6a829424517/classes.dex" />
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_762cc3f755f286f9b10519052dfecf8d6c341822.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.androidadvance\topsnackbar\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb3cf97748344da6fad1deb830c7c479a7c53645">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.androidadvance-topsnackbar-1.1.1_00ce64cc1e1e586bc0ba869bc5b296acf3c0de28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6f36982884db07b967edf2f77c2282104fec8e7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_1e47986e8aaff3757f29d8029e2d50a565d5212a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_6db8731eb9158d143f6833caff22bd42274ab8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\S8Pament\xbzxinglibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ede6074fbc0a2d31ee19f67a827822c2432d44">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\S8Pament-xbzxinglibrary-unspecified_7597fa26b966878730826c549855f00a92ca5d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2a1a91e4867b9d25ef1af428f2ee94f915c78ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_6ed08c9756597531b92178217230e3841c39e24e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_1e0183d0951d0165b09c6e315cdef2e5c883ac32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_2e6287051e290e55984884796c423a634e4e87fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_4c56e500dfc7ef0fcb03a7c6a04c30f71dfbb205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e661829c95754b66bd057ca5ff6ab411957ceebe/classes.dex" />
+        <dex dex="G:\AS-PROGECT\S8\S8Pament\s8api\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_d4f890364bd0ea0c336091317ced8333e4fbd68a.jar" />
     </item>
 
 </items>

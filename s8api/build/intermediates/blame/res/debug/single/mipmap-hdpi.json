@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\szxb.png",
+        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\mipmap-hdpi\\szxb.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/test2dbarcode.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/test2dbarcode.png"
+        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\test2dbarcode.png",
+        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\mipmap-hdpi\\test2dbarcode.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/szxb.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/szxb.png"
+        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\test2dbarcode.png",
+        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\test2dbarcode.png"
+    },
+    {
+        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\szxb.png",
+        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\szxb.png"
+    },
+    {
+        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

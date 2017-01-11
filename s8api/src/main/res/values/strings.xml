@@ -23,6 +23,7 @@
     <string name="showtext">welcome!</string>
     <string name="rfid">frid</string>
 
+    <string name="printText">printText----test</string>
 
     <string name="jianyi">Recommended to keep 10cm distance with lens</string>
 </resources>
