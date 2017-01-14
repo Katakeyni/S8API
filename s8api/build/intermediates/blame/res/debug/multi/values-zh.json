@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "outputFile": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
         "map": [
             {
                 "to": {
@@ -11,381 +11,7 @@
                     "endOffset": 153
                 },
                 "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\dimens.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 158,
-                    "endColumn": 55,
-                    "endOffset": 209
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\dimens.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 214,
-                    "endColumn": 40,
-                    "endOffset": 250
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 255,
-                    "endColumn": 48,
-                    "endOffset": 299
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 304,
-                    "endColumn": 40,
-                    "endOffset": 340
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 345,
-                    "endColumn": 52,
-                    "endOffset": 393
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 398,
-                    "endColumn": 42,
-                    "endOffset": 436
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 441,
-                    "endColumn": 39,
-                    "endOffset": 476
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 481,
-                    "endColumn": 36,
-                    "endOffset": 513
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 518,
-                    "endColumn": 41,
-                    "endOffset": 555
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 560,
-                    "endColumn": 47,
-                    "endOffset": 603
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 608,
-                    "endColumn": 37,
-                    "endOffset": 641
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 646,
-                    "endColumn": 40,
-                    "endOffset": 682
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 687,
-                    "endColumn": 48,
-                    "endOffset": 731
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 736,
-                    "endColumn": 37,
-                    "endOffset": 769
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 774,
-                    "endColumn": 40,
-                    "endOffset": 810
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 815,
-                    "endColumn": 40,
-                    "endOffset": 851
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 856,
-                    "endColumn": 48,
-                    "endOffset": 900
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1017,
-                        "endColumn": 48,
-                        "endOffset": 1061
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 905,
-                    "endColumn": 41,
-                    "endOffset": 942
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 947,
-                    "endColumn": 40,
-                    "endOffset": 983
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 988,
-                    "endColumn": 36,
-                    "endOffset": 1020
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1025,
-                    "endColumn": 38,
-                    "endOffset": 1059
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1064,
-                    "endColumn": 41,
-                    "endOffset": 1101
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1106,
-                    "endColumn": 42,
-                    "endOffset": 1144
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1149,
-                    "endColumn": 39,
-                    "endOffset": 1184
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1189,
-                    "endColumn": 40,
-                    "endOffset": 1225
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 1230,
-                    "endLine": 33,
-                    "endColumn": 12,
-                    "endOffset": 1509
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 1514,
-                    "endColumn": 89,
-                    "endOffset": 1599
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 1604,
-                    "endLine": 40,
-                    "endColumn": 12,
-                    "endOffset": 1947
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 1952,
-                    "endColumn": 79,
-                    "endOffset": 2027
-                },
-                "from": {
-                    "file": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\src\\main\\res\\values-zh\\styles.xml"
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 100,
-                    "endColumn": 57,
-                    "endOffset": 153
-                },
-                "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\dimens.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -404,7 +30,7 @@
                     "endOffset": 209
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\dimens.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -423,7 +49,7 @@
                     "endOffset": 250
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -442,7 +68,7 @@
                     "endOffset": 299
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -461,13 +87,13 @@
                     "endOffset": 340
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 652,
+                        "startOffset": 650,
                         "endColumn": 40,
-                        "endOffset": 688
+                        "endOffset": 686
                     }
                 }
             },
@@ -480,7 +106,7 @@
                     "endOffset": 393
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -499,7 +125,7 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -518,7 +144,7 @@
                     "endOffset": 476
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -537,13 +163,13 @@
                     "endOffset": 513
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 961,
+                        "startOffset": 951,
                         "endColumn": 36,
-                        "endOffset": 993
+                        "endOffset": 983
                     }
                 }
             },
@@ -556,13 +182,13 @@
                     "endOffset": 555
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 782,
+                        "startOffset": 776,
                         "endColumn": 41,
-                        "endOffset": 819
+                        "endOffset": 813
                     }
                 }
             },
@@ -575,7 +201,7 @@
                     "endOffset": 603
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -594,13 +220,13 @@
                     "endOffset": 641
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 14,
-                        "startColumn": 5,
-                        "startOffset": 575,
-                        "endColumn": 38,
-                        "endOffset": 608
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 37,
+                        "endOffset": 606
                     }
                 }
             },
@@ -613,13 +239,13 @@
                     "endOffset": 682
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 824,
+                        "startOffset": 818,
                         "endColumn": 40,
-                        "endOffset": 860
+                        "endOffset": 854
                     }
                 }
             },
@@ -632,13 +258,13 @@
                     "endOffset": 731
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 907,
+                        "startOffset": 901,
                         "endColumn": 48,
-                        "endOffset": 951
+                        "endOffset": 945
                     }
                 }
             },
@@ -651,13 +277,13 @@
                     "endOffset": 769
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 13,
-                        "startColumn": 5,
-                        "startOffset": 536,
-                        "endColumn": 38,
-                        "endOffset": 569
+                        "startColumn": 4,
+                        "startOffset": 535,
+                        "endColumn": 37,
+                        "endOffset": 568
                     }
                 }
             },
@@ -670,13 +296,13 @@
                     "endOffset": 810
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 865,
+                        "startOffset": 859,
                         "endColumn": 40,
-                        "endOffset": 901
+                        "endOffset": 895
                     }
                 }
             },
@@ -689,13 +315,13 @@
                     "endOffset": 851
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 741,
+                        "startOffset": 735,
                         "endColumn": 40,
-                        "endOffset": 777
+                        "endOffset": 771
                     }
                 }
             },
@@ -704,11 +330,30 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 856,
-                    "endColumn": 41,
-                    "endOffset": 893
+                    "endColumn": 48,
+                    "endOffset": 900
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 48,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 41,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -720,14 +365,14 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 898,
+                    "startOffset": 947,
                     "endColumn": 40,
-                    "endOffset": 934
+                    "endOffset": 983
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -739,39 +384,20 @@
             },
             {
                 "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 939,
-                    "endColumn": 36,
-                    "endOffset": 971
-                },
-                "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 999,
-                        "endColumn": 36,
-                        "endOffset": 1031
-                    }
-                }
-            },
-            {
-                "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 976,
-                    "endColumn": 38,
-                    "endOffset": 1010
+                    "startOffset": 988,
+                    "endColumn": 36,
+                    "endOffset": 1020
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 613,
-                        "endColumn": 38,
-                        "endOffset": 647
+                        "startOffset": 1038,
+                        "endColumn": 36,
+                        "endOffset": 1070
                     }
                 }
             },
@@ -779,12 +405,31 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1015,
-                    "endColumn": 41,
-                    "endOffset": 1052
+                    "startOffset": 1025,
+                    "endColumn": 38,
+                    "endOffset": 1059
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 38,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1064,
+                    "endColumn": 41,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -796,33 +441,33 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1057,
+                    "startOffset": 1106,
                     "endColumn": 42,
-                    "endOffset": 1095
+                    "endOffset": 1144
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 693,
+                        "startOffset": 691,
                         "endColumn": 42,
-                        "endOffset": 731
+                        "endOffset": 729
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1100,
+                    "startOffset": 1149,
                     "endColumn": 39,
-                    "endOffset": 1135
+                    "endOffset": 1184
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -834,14 +479,14 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1140,
+                    "startOffset": 1189,
                     "endColumn": 40,
-                    "endOffset": 1176
+                    "endOffset": 1225
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\strings.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -853,15 +498,15 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1181,
-                    "endLine": 32,
+                    "startOffset": 1230,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 1495
+                    "endOffset": 1544
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\styles.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/styles.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -874,14 +519,14 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 1500,
+                    "startOffset": 1549,
                     "endColumn": 89,
-                    "endOffset": 1585
+                    "endOffset": 1634
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\styles.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/styles.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -893,15 +538,15 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 1590,
-                    "endLine": 39,
+                    "startOffset": 1639,
+                    "endLine": 40,
                     "endColumn": 12,
-                    "endOffset": 1933
+                    "endOffset": 1982
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\styles.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/styles.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -914,14 +559,14 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 1938,
+                    "startOffset": 1987,
                     "endColumn": 79,
-                    "endOffset": 2013
+                    "endOffset": 2062
                 },
                 "from": {
-                    "file": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\values-zh\\styles.xml",
+                    "file": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/values-zh/styles.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

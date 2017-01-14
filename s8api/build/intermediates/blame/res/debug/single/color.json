@@ -1,138 +1,70 @@
 [
     {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_search_url_text.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_default.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_spinner.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_search_url_text.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "G:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "G:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_btn_colored_borderless_text_material.xml"
     }
 ]

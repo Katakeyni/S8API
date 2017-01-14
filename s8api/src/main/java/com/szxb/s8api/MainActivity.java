@@ -272,13 +272,17 @@ public class MainActivity extends AppCompatActivity {
                 int nHandle;
                 if (menuItem.getTitle().equals("HOST")) {
                     menuItem.setTitle("DEVICE");
-                    nHandle = api_interface.usbopen((byte) 2);
+
+                    nHandle = api_interface.usbctrl((byte) 2);
+                    nHandle = api_interface.usbctrl((byte) 0);
+
                 } else {
                     menuItem.setTitle("HOST");
-                    nHandle = api_interface.usbopen((byte) 3);
+                    nHandle = api_interface.usbctrl((byte) 3);
+
+                    nHandle = api_interface.usbctrl((byte) 1);
                 }
 
-                api_interface.usbclose(nHandle);
                 break;
         }
         return super.onOptionsItemSelected(item);

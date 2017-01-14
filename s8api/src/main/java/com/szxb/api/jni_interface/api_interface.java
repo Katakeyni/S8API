@@ -394,17 +394,9 @@ public class api_interface {
 	* @return int    返回类型
 	* @throws
 	*/ 
-	public static native int usbopen(byte cmd);
+	public static native int usbctrl(byte cmd);
 
-	/**
-	* @Title: usbclose
-	* @Description: TODO(这里用一句话描述这个方法的作用)
-	* @param @param nHandle
-	* @param @return   
-	* @return int    返回类型
-	* @throws
-	*/ 
-	public static native int usbclose(int nHandle);
+
 	
     /**
     * @Title: ymodemUpdate

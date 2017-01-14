@@ -1,4 +1,4 @@
-#Wed Jan 11 20:15:11 CST 2017
-base.0=G\:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Jan 13 21:42:21 CST 2017
+base.0=/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=G\:\\AS-PROGECT\\S8\\S8Pament\\s8api\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
