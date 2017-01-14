@@ -53,6 +53,7 @@
                 android:text="@string/printText"
                 android:textSize="20sp"
                 android:visibility="gone" />
+
             <Button
                 android:id="@+id/getversion"
                 android:layout_width="match_parent"
@@ -116,6 +117,14 @@
                 android:layout_margin="5dp"
                 android:background="@drawable/button_selector"
                 android:text="@string/WebView" />
+
+            <Button
+                android:id="@+id/zhiwen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/button_selector"
+                android:text="@string/zhiwen" />
 
             <Button
                 android:id="@+id/clean"

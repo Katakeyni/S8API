@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="http://schemas.android.com/tools">
     <string name="app_name">S8API</string>
     <string name="action_settings">Settings</string>
     <string name="getversionstr">获取版本号</string>
@@ -15,6 +15,7 @@
     <string name="hide">隐藏更多</string>
     <string name="scanner">扫描</string>
     <string name="WebView">打开网页</string>
+    <string name="zhiwen">指纹模块</string>
     <string name="showtext">欢迎使用!</string>
 
     <string name="openLight">开灯</string>
@@ -28,5 +29,44 @@
 
     <string name="printText">打印文字图片--测试</string>
     <string name="rfid">非接卡</string>
+
+
+    <string name="fps_sn">指纹传感器序列号：<xliff:g>%1$s</xliff:g></string>
+    <string name="fps_fw">指纹传感器内部固件版本号：<xliff:g>%1$s</xliff:g></string>
+    <string name="open_device">打开指纹仪</string>
+    <string name="close_device">关闭指纹仪</string>
+    <string name="fp_collect_info">单次指纹采集信息：</string>
+    <string name="capture">取图：</string>
+    <string name="extract">提取特征：</string>
+    <string name="generalize">合成模板：</string>
+    <string name="verify">比对：</string>
+    <string name="enroll_fp">录入指纹</string>
+    <string name="verify_fp">比对指纹</string>
+    <string name="identify_fp">搜索指纹</string>
+    <string name="clear_fp_db">清空指纹库</string>
+    <string name="show_fp">显示指纹</string>
+    <string name="fingerprint_device_open_success">指纹仪打开成功！</string>
+    <string name="fingerprint_device_open_failed">指纹仪打开失败！错误码：</string>
+    <string name="fingerprint_device_close_success">指纹仪关闭成功！</string>
+    <string name="fingerprint_device_close_failed">指纹仪关闭失败！错误码：</string>
+    <string name="algorithm_initialization_failed">Bione算法初始化失败！错误码：</string>
+    <string name="algorithm_cleanup_failed">Bione算法反初始化失败！错误码：</string>
+    <string name="not_done">未进行</string>
+    <string name="capture_image_success">指纹图像获取成功！</string>
+    <string name="capture_image_failed">采集指纹图像失败！错误码：</string>
+    <string name="enroll_failed_because_of_extract_feature">录入失败，提取特征出错！错误码：</string>
+    <string name="enroll_failed_because_of_make_template">录入失败，生成模板出错！错误码：</string>
+    <string name="enroll_failed_because_of_get_id">录入失败，获取可用的指纹ID失败！错误码：</string>
+    <string name="enroll_failed_because_of_error">录入失败！错误码：</string>
+    <string name="enroll_success">录入成功！指纹ID：</string>
+    <string name="verify_failed_because_of_extract_feature">比对失败，提取特征出错！错误码：</string>
+    <string name="verify_failed_because_of_error">比对失败！错误码：</string>
+    <string name="fingerprint_not_match">指纹不匹配！</string>
+    <string name="fingerprint_match">指纹匹配！</string>
+    <string name="identify_failed_because_of_extract_feature">比对失败，提取特征出错！错误码：</string>
+    <string name="identify_failed_because_of_error">比对失败！错误码：</string>
+    <string name="identify_match">匹配指纹ID：</string>
+    <string name="clear_fingerprint_database_success">清空指纹库成功！</string>
+    <string name="clear_fingerprint_database_failed">清空指纹库失败！错误码：</string>
 
 </resources>

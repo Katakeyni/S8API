@@ -50,6 +50,8 @@ public class MainActivity extends AppCompatActivity {
     TextView textViewHide;
 
     public static final int MSG = 1;
+    @BindView(R.id.zhiwen)
+    Button zhiwen;
     private MenuItem menuItem = null;
     private Handler handler = new Handler() {
         @Override
@@ -81,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @OnClick({R.id.getversion, R.id.scanner, R.id.Magneticcard, R.id.print, R.id.psam,
-            R.id.ICcard, R.id.clean, R.id.webview, R.id.rfid})
+            R.id.ICcard, R.id.clean, R.id.webview, R.id.zhiwen, R.id.rfid})
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.getversion:
@@ -228,6 +230,9 @@ public class MainActivity extends AppCompatActivity {
                     api_interface.ICCardPowerOff();
                 }
                 get();
+                break;
+            case R.id.zhiwen:
+                startActivity(new Intent(MainActivity.this, Fingerprint.class));
                 break;
             case R.id.clean:
                 showTV.setText("");

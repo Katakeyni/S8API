@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/lilei/windowsShare/ContentProvider/s8api/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/lilei/windowsShare/ContentProvider/s8api/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="G:\AS-PROGECT\S8\S8Pament\s8api\src\main\shaders"/></dataSet><dataSet config="debug"><source path="G:\AS-PROGECT\S8\S8Pament\s8api\src\debug\shaders"/></dataSet></merger>

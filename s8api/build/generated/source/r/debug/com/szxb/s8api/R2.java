@@ -965,34 +965,34 @@ public final class R2 {
 
   public static final class color {
     @ColorRes
-    public static final int abc_background_cache_hint_selector_material_dark = 0x7f0c0063;
+    public static final int abc_background_cache_hint_selector_material_dark = 0x7f0c0064;
 
     @ColorRes
-    public static final int abc_background_cache_hint_selector_material_light = 0x7f0c0064;
+    public static final int abc_background_cache_hint_selector_material_light = 0x7f0c0065;
 
     @ColorRes
-    public static final int abc_btn_colored_borderless_text_material = 0x7f0c0065;
+    public static final int abc_btn_colored_borderless_text_material = 0x7f0c0066;
 
     @ColorRes
-    public static final int abc_color_highlight_material = 0x7f0c0066;
+    public static final int abc_color_highlight_material = 0x7f0c0067;
 
     @ColorRes
     public static final int abc_input_method_navigation_guard = 0x7f0c0000;
 
     @ColorRes
-    public static final int abc_primary_text_disable_only_material_dark = 0x7f0c0067;
+    public static final int abc_primary_text_disable_only_material_dark = 0x7f0c0068;
 
     @ColorRes
-    public static final int abc_primary_text_disable_only_material_light = 0x7f0c0068;
+    public static final int abc_primary_text_disable_only_material_light = 0x7f0c0069;
 
     @ColorRes
-    public static final int abc_primary_text_material_dark = 0x7f0c0069;
+    public static final int abc_primary_text_material_dark = 0x7f0c006a;
 
     @ColorRes
-    public static final int abc_primary_text_material_light = 0x7f0c006a;
+    public static final int abc_primary_text_material_light = 0x7f0c006b;
 
     @ColorRes
-    public static final int abc_search_url_text = 0x7f0c006b;
+    public static final int abc_search_url_text = 0x7f0c006c;
 
     @ColorRes
     public static final int abc_search_url_text_normal = 0x7f0c0001;
@@ -1004,31 +1004,31 @@ public final class R2 {
     public static final int abc_search_url_text_selected = 0x7f0c0003;
 
     @ColorRes
-    public static final int abc_secondary_text_material_dark = 0x7f0c006c;
+    public static final int abc_secondary_text_material_dark = 0x7f0c006d;
 
     @ColorRes
-    public static final int abc_secondary_text_material_light = 0x7f0c006d;
+    public static final int abc_secondary_text_material_light = 0x7f0c006e;
 
     @ColorRes
-    public static final int abc_tint_btn_checkable = 0x7f0c006e;
+    public static final int abc_tint_btn_checkable = 0x7f0c006f;
 
     @ColorRes
-    public static final int abc_tint_default = 0x7f0c006f;
+    public static final int abc_tint_default = 0x7f0c0070;
 
     @ColorRes
-    public static final int abc_tint_edittext = 0x7f0c0070;
+    public static final int abc_tint_edittext = 0x7f0c0071;
 
     @ColorRes
-    public static final int abc_tint_seek_thumb = 0x7f0c0071;
+    public static final int abc_tint_seek_thumb = 0x7f0c0072;
 
     @ColorRes
-    public static final int abc_tint_spinner = 0x7f0c0072;
+    public static final int abc_tint_spinner = 0x7f0c0073;
 
     @ColorRes
-    public static final int abc_tint_switch_thumb = 0x7f0c0073;
+    public static final int abc_tint_switch_thumb = 0x7f0c0074;
 
     @ColorRes
-    public static final int abc_tint_switch_track = 0x7f0c0074;
+    public static final int abc_tint_switch_track = 0x7f0c0075;
 
     @ColorRes
     public static final int accent_material_dark = 0x7f0c0004;
@@ -1088,238 +1088,241 @@ public final class R2 {
     public static final int colorPrimaryDark = 0x7f0c0016;
 
     @ColorRes
-    public static final int contents_text = 0x7f0c0017;
+    public static final int colorWhite = 0x7f0c0017;
 
     @ColorRes
-    public static final int design_fab_shadow_end_color = 0x7f0c0018;
+    public static final int contents_text = 0x7f0c0018;
 
     @ColorRes
-    public static final int design_fab_shadow_mid_color = 0x7f0c0019;
+    public static final int design_fab_shadow_end_color = 0x7f0c0019;
 
     @ColorRes
-    public static final int design_fab_shadow_start_color = 0x7f0c001a;
+    public static final int design_fab_shadow_mid_color = 0x7f0c001a;
 
     @ColorRes
-    public static final int design_fab_stroke_end_inner_color = 0x7f0c001b;
+    public static final int design_fab_shadow_start_color = 0x7f0c001b;
 
     @ColorRes
-    public static final int design_fab_stroke_end_outer_color = 0x7f0c001c;
+    public static final int design_fab_stroke_end_inner_color = 0x7f0c001c;
 
     @ColorRes
-    public static final int design_fab_stroke_top_inner_color = 0x7f0c001d;
+    public static final int design_fab_stroke_end_outer_color = 0x7f0c001d;
 
     @ColorRes
-    public static final int design_fab_stroke_top_outer_color = 0x7f0c001e;
+    public static final int design_fab_stroke_top_inner_color = 0x7f0c001e;
 
     @ColorRes
-    public static final int design_snackbar_background_color = 0x7f0c001f;
+    public static final int design_fab_stroke_top_outer_color = 0x7f0c001f;
 
     @ColorRes
-    public static final int design_textinput_error_color_dark = 0x7f0c0020;
+    public static final int design_snackbar_background_color = 0x7f0c0020;
 
     @ColorRes
-    public static final int design_textinput_error_color_light = 0x7f0c0021;
+    public static final int design_textinput_error_color_dark = 0x7f0c0021;
 
     @ColorRes
-    public static final int dim_foreground_disabled_material_dark = 0x7f0c0022;
+    public static final int design_textinput_error_color_light = 0x7f0c0022;
 
     @ColorRes
-    public static final int dim_foreground_disabled_material_light = 0x7f0c0023;
+    public static final int dim_foreground_disabled_material_dark = 0x7f0c0023;
 
     @ColorRes
-    public static final int dim_foreground_material_dark = 0x7f0c0024;
+    public static final int dim_foreground_disabled_material_light = 0x7f0c0024;
 
     @ColorRes
-    public static final int dim_foreground_material_light = 0x7f0c0025;
+    public static final int dim_foreground_material_dark = 0x7f0c0025;
 
     @ColorRes
-    public static final int encode_view = 0x7f0c0026;
+    public static final int dim_foreground_material_light = 0x7f0c0026;
 
     @ColorRes
-    public static final int foreground_material_dark = 0x7f0c0027;
+    public static final int encode_view = 0x7f0c0027;
 
     @ColorRes
-    public static final int foreground_material_light = 0x7f0c0028;
+    public static final int foreground_material_dark = 0x7f0c0028;
 
     @ColorRes
-    public static final int grgray = 0x7f0c0029;
+    public static final int foreground_material_light = 0x7f0c0029;
 
     @ColorRes
-    public static final int header = 0x7f0c002a;
+    public static final int grgray = 0x7f0c002a;
 
     @ColorRes
-    public static final int help_button_view = 0x7f0c002b;
+    public static final int header = 0x7f0c002b;
 
     @ColorRes
-    public static final int help_view = 0x7f0c002c;
+    public static final int help_button_view = 0x7f0c002c;
 
     @ColorRes
-    public static final int highlighted_text_material_dark = 0x7f0c002d;
+    public static final int help_view = 0x7f0c002d;
 
     @ColorRes
-    public static final int highlighted_text_material_light = 0x7f0c002e;
+    public static final int highlighted_text_material_dark = 0x7f0c002e;
 
     @ColorRes
-    public static final int hint_foreground_material_dark = 0x7f0c002f;
+    public static final int highlighted_text_material_light = 0x7f0c002f;
 
     @ColorRes
-    public static final int hint_foreground_material_light = 0x7f0c0030;
+    public static final int hint_foreground_material_dark = 0x7f0c0030;
 
     @ColorRes
-    public static final int material_blue_grey_800 = 0x7f0c0031;
+    public static final int hint_foreground_material_light = 0x7f0c0031;
 
     @ColorRes
-    public static final int material_blue_grey_900 = 0x7f0c0032;
+    public static final int material_blue_grey_800 = 0x7f0c0032;
 
     @ColorRes
-    public static final int material_blue_grey_950 = 0x7f0c0033;
+    public static final int material_blue_grey_900 = 0x7f0c0033;
 
     @ColorRes
-    public static final int material_deep_teal_200 = 0x7f0c0034;
+    public static final int material_blue_grey_950 = 0x7f0c0034;
 
     @ColorRes
-    public static final int material_deep_teal_500 = 0x7f0c0035;
+    public static final int material_deep_teal_200 = 0x7f0c0035;
 
     @ColorRes
-    public static final int material_grey_100 = 0x7f0c0036;
+    public static final int material_deep_teal_500 = 0x7f0c0036;
 
     @ColorRes
-    public static final int material_grey_300 = 0x7f0c0037;
+    public static final int material_grey_100 = 0x7f0c0037;
 
     @ColorRes
-    public static final int material_grey_50 = 0x7f0c0038;
+    public static final int material_grey_300 = 0x7f0c0038;
 
     @ColorRes
-    public static final int material_grey_600 = 0x7f0c0039;
+    public static final int material_grey_50 = 0x7f0c0039;
 
     @ColorRes
-    public static final int material_grey_800 = 0x7f0c003a;
+    public static final int material_grey_600 = 0x7f0c003a;
 
     @ColorRes
-    public static final int material_grey_850 = 0x7f0c003b;
+    public static final int material_grey_800 = 0x7f0c003b;
 
     @ColorRes
-    public static final int material_grey_900 = 0x7f0c003c;
+    public static final int material_grey_850 = 0x7f0c003c;
 
     @ColorRes
-    public static final int possible_result_points = 0x7f0c003d;
+    public static final int material_grey_900 = 0x7f0c003d;
 
     @ColorRes
-    public static final int primary_dark_material_dark = 0x7f0c003e;
+    public static final int possible_result_points = 0x7f0c003e;
 
     @ColorRes
-    public static final int primary_dark_material_light = 0x7f0c003f;
+    public static final int primary_dark_material_dark = 0x7f0c003f;
 
     @ColorRes
-    public static final int primary_material_dark = 0x7f0c0040;
+    public static final int primary_dark_material_light = 0x7f0c0040;
 
     @ColorRes
-    public static final int primary_material_light = 0x7f0c0041;
+    public static final int primary_material_dark = 0x7f0c0041;
 
     @ColorRes
-    public static final int primary_text_default_material_dark = 0x7f0c0042;
+    public static final int primary_material_light = 0x7f0c0042;
 
     @ColorRes
-    public static final int primary_text_default_material_light = 0x7f0c0043;
+    public static final int primary_text_default_material_dark = 0x7f0c0043;
 
     @ColorRes
-    public static final int primary_text_disabled_material_dark = 0x7f0c0044;
+    public static final int primary_text_default_material_light = 0x7f0c0044;
 
     @ColorRes
-    public static final int primary_text_disabled_material_light = 0x7f0c0045;
+    public static final int primary_text_disabled_material_dark = 0x7f0c0045;
 
     @ColorRes
-    public static final int result_image_border = 0x7f0c0046;
+    public static final int primary_text_disabled_material_light = 0x7f0c0046;
 
     @ColorRes
-    public static final int result_minor_text = 0x7f0c0047;
+    public static final int result_image_border = 0x7f0c0047;
 
     @ColorRes
-    public static final int result_points = 0x7f0c0048;
+    public static final int result_minor_text = 0x7f0c0048;
 
     @ColorRes
-    public static final int result_text = 0x7f0c0049;
+    public static final int result_points = 0x7f0c0049;
 
     @ColorRes
-    public static final int result_view = 0x7f0c004a;
+    public static final int result_text = 0x7f0c004a;
 
     @ColorRes
-    public static final int ripple_material_dark = 0x7f0c004b;
+    public static final int result_view = 0x7f0c004b;
 
     @ColorRes
-    public static final int ripple_material_light = 0x7f0c004c;
+    public static final int ripple_material_dark = 0x7f0c004c;
 
     @ColorRes
-    public static final int sbc_header_text = 0x7f0c004d;
+    public static final int ripple_material_light = 0x7f0c004d;
 
     @ColorRes
-    public static final int sbc_header_view = 0x7f0c004e;
+    public static final int sbc_header_text = 0x7f0c004e;
 
     @ColorRes
-    public static final int sbc_layout_view = 0x7f0c004f;
+    public static final int sbc_header_view = 0x7f0c004f;
 
     @ColorRes
-    public static final int sbc_list_item = 0x7f0c0050;
+    public static final int sbc_layout_view = 0x7f0c0050;
 
     @ColorRes
-    public static final int sbc_page_number_text = 0x7f0c0051;
+    public static final int sbc_list_item = 0x7f0c0051;
 
     @ColorRes
-    public static final int sbc_snippet_text = 0x7f0c0052;
+    public static final int sbc_page_number_text = 0x7f0c0052;
 
     @ColorRes
-    public static final int secondary_text_default_material_dark = 0x7f0c0053;
+    public static final int sbc_snippet_text = 0x7f0c0053;
 
     @ColorRes
-    public static final int secondary_text_default_material_light = 0x7f0c0054;
+    public static final int secondary_text_default_material_dark = 0x7f0c0054;
 
     @ColorRes
-    public static final int secondary_text_disabled_material_dark = 0x7f0c0055;
+    public static final int secondary_text_default_material_light = 0x7f0c0055;
 
     @ColorRes
-    public static final int secondary_text_disabled_material_light = 0x7f0c0056;
+    public static final int secondary_text_disabled_material_dark = 0x7f0c0056;
 
     @ColorRes
-    public static final int share_text = 0x7f0c0057;
+    public static final int secondary_text_disabled_material_light = 0x7f0c0057;
 
     @ColorRes
-    public static final int share_view = 0x7f0c0058;
+    public static final int share_text = 0x7f0c0058;
 
     @ColorRes
-    public static final int status_text = 0x7f0c0059;
+    public static final int share_view = 0x7f0c0059;
 
     @ColorRes
-    public static final int status_view = 0x7f0c005a;
+    public static final int status_text = 0x7f0c005a;
 
     @ColorRes
-    public static final int switch_thumb_disabled_material_dark = 0x7f0c005b;
+    public static final int status_view = 0x7f0c005b;
 
     @ColorRes
-    public static final int switch_thumb_disabled_material_light = 0x7f0c005c;
+    public static final int switch_thumb_disabled_material_dark = 0x7f0c005c;
 
     @ColorRes
-    public static final int switch_thumb_material_dark = 0x7f0c0075;
+    public static final int switch_thumb_disabled_material_light = 0x7f0c005d;
 
     @ColorRes
-    public static final int switch_thumb_material_light = 0x7f0c0076;
+    public static final int switch_thumb_material_dark = 0x7f0c0076;
 
     @ColorRes
-    public static final int switch_thumb_normal_material_dark = 0x7f0c005d;
+    public static final int switch_thumb_material_light = 0x7f0c0077;
 
     @ColorRes
-    public static final int switch_thumb_normal_material_light = 0x7f0c005e;
+    public static final int switch_thumb_normal_material_dark = 0x7f0c005e;
 
     @ColorRes
-    public static final int transparent = 0x7f0c005f;
+    public static final int switch_thumb_normal_material_light = 0x7f0c005f;
 
     @ColorRes
-    public static final int viewfinder_frame = 0x7f0c0060;
+    public static final int transparent = 0x7f0c0060;
 
     @ColorRes
-    public static final int viewfinder_laser = 0x7f0c0061;
+    public static final int viewfinder_frame = 0x7f0c0061;
 
     @ColorRes
-    public static final int viewfinder_mask = 0x7f0c0062;
+    public static final int viewfinder_laser = 0x7f0c0062;
+
+    @ColorRes
+    public static final int viewfinder_mask = 0x7f0c0063;
   }
 
   public static final class dimen {
@@ -1917,27 +1920,45 @@ public final class R2 {
     public static final int abc_vector_test = 0x7f020052;
 
     @DrawableRes
-    public static final int button_selector = 0x7f020053;
+    public static final int button = 0x7f020053;
 
     @DrawableRes
-    public static final int design_fab_background = 0x7f020054;
+    public static final int button_selector = 0x7f020054;
 
     @DrawableRes
-    public static final int design_snackbar_background = 0x7f020055;
+    public static final int design_fab_background = 0x7f020055;
 
     @DrawableRes
-    public static final int notification_template_icon_bg = 0x7f020056;
+    public static final int design_snackbar_background = 0x7f020056;
+
+    @DrawableRes
+    public static final int notification_template_icon_bg = 0x7f02005c;
+
+    @DrawableRes
+    public static final int tab_focus = 0x7f020057;
+
+    @DrawableRes
+    public static final int tab_indicator = 0x7f020058;
+
+    @DrawableRes
+    public static final int tab_press = 0x7f020059;
+
+    @DrawableRes
+    public static final int tab_selected = 0x7f02005a;
+
+    @DrawableRes
+    public static final int tab_unselected = 0x7f02005b;
   }
 
   public static final class id {
     @IdRes
-    public static final int ICcard = 0x7f0d0081;
+    public static final int ICcard = 0x7f0d008e;
 
     @IdRes
-    public static final int Magneticcard = 0x7f0d007d;
+    public static final int Magneticcard = 0x7f0d008a;
 
     @IdRes
-    public static final int action0 = 0x7f0d0096;
+    public static final int action0 = 0x7f0d00a4;
 
     @IdRes
     public static final int action_bar = 0x7f0d0069;
@@ -1964,7 +1985,7 @@ public final class R2 {
     public static final int action_context_bar = 0x7f0d006a;
 
     @IdRes
-    public static final int action_divider = 0x7f0d009a;
+    public static final int action_divider = 0x7f0d00a8;
 
     @IdRes
     public static final int action_menu_divider = 0x7f0d0002;
@@ -1985,10 +2006,10 @@ public final class R2 {
     public static final int activity_chooser_view_content = 0x7f0d004b;
 
     @IdRes
-    public static final int activity_second = 0x7f0d0084;
+    public static final int activity_second = 0x7f0d0092;
 
     @IdRes
-    public static final int activity_web_view = 0x7f0d0089;
+    public static final int activity_web_view = 0x7f0d0097;
 
     @IdRes
     public static final int add = 0x7f0d0026;
@@ -2012,10 +2033,31 @@ public final class R2 {
     public static final int bottom = 0x7f0d002d;
 
     @IdRes
+    public static final int bt_clear = 0x7f0d0083;
+
+    @IdRes
+    public static final int bt_enroll = 0x7f0d0080;
+
+    @IdRes
+    public static final int bt_identify = 0x7f0d0082;
+
+    @IdRes
+    public static final int bt_open_close = 0x7f0d007f;
+
+    @IdRes
+    public static final int bt_show = 0x7f0d0084;
+
+    @IdRes
+    public static final int bt_verify = 0x7f0d0081;
+
+    @IdRes
     public static final int buttonPanel = 0x7f0d0052;
 
     @IdRes
-    public static final int cancel_action = 0x7f0d0097;
+    public static final int cancel_action = 0x7f0d00a5;
+
+    @IdRes
+    public static final int captureTime = 0x7f0d007b;
 
     @IdRes
     public static final int center = 0x7f0d002e;
@@ -2030,10 +2072,10 @@ public final class R2 {
     public static final int checkbox = 0x7f0d0060;
 
     @IdRes
-    public static final int chronometer = 0x7f0d009d;
+    public static final int chronometer = 0x7f0d00ab;
 
     @IdRes
-    public static final int clean = 0x7f0d0083;
+    public static final int clean = 0x7f0d0091;
 
     @IdRes
     public static final int clip_horizontal = 0x7f0d0039;
@@ -2042,7 +2084,7 @@ public final class R2 {
     public static final int clip_vertical = 0x7f0d003a;
 
     @IdRes
-    public static final int close = 0x7f0d0088;
+    public static final int close = 0x7f0d0096;
 
     @IdRes
     public static final int collapseActionView = 0x7f0d0042;
@@ -2072,19 +2114,19 @@ public final class R2 {
     public static final int default_activity_button = 0x7f0d004e;
 
     @IdRes
-    public static final int design_bottom_sheet = 0x7f0d008c;
+    public static final int design_bottom_sheet = 0x7f0d009a;
 
     @IdRes
-    public static final int design_menu_item_action_area = 0x7f0d0093;
+    public static final int design_menu_item_action_area = 0x7f0d00a1;
 
     @IdRes
-    public static final int design_menu_item_action_area_stub = 0x7f0d0092;
+    public static final int design_menu_item_action_area_stub = 0x7f0d00a0;
 
     @IdRes
-    public static final int design_menu_item_text = 0x7f0d0091;
+    public static final int design_menu_item_text = 0x7f0d009f;
 
     @IdRes
-    public static final int design_navigation_view = 0x7f0d0090;
+    public static final int design_navigation_view = 0x7f0d009e;
 
     @IdRes
     public static final int disableHome = 0x7f0d001a;
@@ -2102,7 +2144,7 @@ public final class R2 {
     public static final int end = 0x7f0d0031;
 
     @IdRes
-    public static final int end_padder = 0x7f0d00a2;
+    public static final int end_padder = 0x7f0d00b0;
 
     @IdRes
     public static final int enterAlways = 0x7f0d0021;
@@ -2120,6 +2162,9 @@ public final class R2 {
     public static final int expanded_menu = 0x7f0d005f;
 
     @IdRes
+    public static final int extractTime = 0x7f0d007c;
+
+    @IdRes
     public static final int fill = 0x7f0d003b;
 
     @IdRes
@@ -2129,13 +2174,19 @@ public final class R2 {
     public static final int fill_vertical = 0x7f0d0032;
 
     @IdRes
+    public static final int fingerimage = 0x7f0d007a;
+
+    @IdRes
     public static final int fixed = 0x7f0d0046;
 
     @IdRes
-    public static final int fl_my_container = 0x7f0d0085;
+    public static final int fl_my_container = 0x7f0d0093;
 
     @IdRes
-    public static final int getversion = 0x7f0d007b;
+    public static final int generalizeTime = 0x7f0d007d;
+
+    @IdRes
+    public static final int getversion = 0x7f0d0088;
 
     @IdRes
     public static final int home = 0x7f0d000a;
@@ -2144,7 +2195,7 @@ public final class R2 {
     public static final int homeAsUp = 0x7f0d001b;
 
     @IdRes
-    public static final int host = 0x7f0d00a4;
+    public static final int host = 0x7f0d00b2;
 
     @IdRes
     public static final int icon = 0x7f0d0050;
@@ -2156,13 +2207,13 @@ public final class R2 {
     public static final int image = 0x7f0d004d;
 
     @IdRes
-    public static final int info = 0x7f0d00a1;
+    public static final int info = 0x7f0d00af;
 
     @IdRes
     public static final int item_touch_helper_previous_elevation = 0x7f0d000b;
 
     @IdRes
-    public static final int jianyi = 0x7f0d0086;
+    public static final int jianyi = 0x7f0d0094;
 
     @IdRes
     public static final int launch_product_query = 0x7f0d000c;
@@ -2171,13 +2222,13 @@ public final class R2 {
     public static final int left = 0x7f0d0033;
 
     @IdRes
-    public static final int light = 0x7f0d0087;
+    public static final int light = 0x7f0d0095;
 
     @IdRes
-    public static final int line1 = 0x7f0d009b;
+    public static final int line1 = 0x7f0d00a9;
 
     @IdRes
-    public static final int line3 = 0x7f0d009f;
+    public static final int line3 = 0x7f0d00ad;
 
     @IdRes
     public static final int listMode = 0x7f0d0017;
@@ -2186,7 +2237,7 @@ public final class R2 {
     public static final int list_item = 0x7f0d004f;
 
     @IdRes
-    public static final int media_actions = 0x7f0d0099;
+    public static final int media_actions = 0x7f0d00a7;
 
     @IdRes
     public static final int middle = 0x7f0d0040;
@@ -2195,13 +2246,13 @@ public final class R2 {
     public static final int mini = 0x7f0d003e;
 
     @IdRes
-    public static final int mtoolbar = 0x7f0d00a3;
+    public static final int mtoolbar = 0x7f0d00b1;
 
     @IdRes
     public static final int multiply = 0x7f0d0027;
 
     @IdRes
-    public static final int navigation_header_container = 0x7f0d008f;
+    public static final int navigation_header_container = 0x7f0d009d;
 
     @IdRes
     public static final int never = 0x7f0d0044;
@@ -2222,13 +2273,13 @@ public final class R2 {
     public static final int pin = 0x7f0d0038;
 
     @IdRes
-    public static final int preview_view = 0x7f0d0094;
+    public static final int preview_view = 0x7f0d00a2;
 
     @IdRes
-    public static final int print = 0x7f0d007f;
+    public static final int print = 0x7f0d008c;
 
     @IdRes
-    public static final int progressBar = 0x7f0d008a;
+    public static final int progressBar = 0x7f0d0098;
 
     @IdRes
     public static final int progress_circular = 0x7f0d000d;
@@ -2237,10 +2288,10 @@ public final class R2 {
     public static final int progress_horizontal = 0x7f0d000e;
 
     @IdRes
-    public static final int progressbar = 0x7f0d0078;
+    public static final int progressbar = 0x7f0d0085;
 
     @IdRes
-    public static final int psam = 0x7f0d0080;
+    public static final int psam = 0x7f0d008d;
 
     @IdRes
     public static final int quit = 0x7f0d000f;
@@ -2255,13 +2306,13 @@ public final class R2 {
     public static final int return_scan_result = 0x7f0d0011;
 
     @IdRes
-    public static final int rfid = 0x7f0d007e;
+    public static final int rfid = 0x7f0d008b;
 
     @IdRes
     public static final int right = 0x7f0d0034;
 
     @IdRes
-    public static final int scanner = 0x7f0d007c;
+    public static final int scanner = 0x7f0d0089;
 
     @IdRes
     public static final int screen = 0x7f0d0028;
@@ -2333,13 +2384,13 @@ public final class R2 {
     public static final int showTitle = 0x7f0d001f;
 
     @IdRes
-    public static final int showtext = 0x7f0d0079;
+    public static final int showtext = 0x7f0d0086;
 
     @IdRes
-    public static final int snackbar_action = 0x7f0d008e;
+    public static final int snackbar_action = 0x7f0d009c;
 
     @IdRes
-    public static final int snackbar_text = 0x7f0d008d;
+    public static final int snackbar_text = 0x7f0d009b;
 
     @IdRes
     public static final int snap = 0x7f0d0025;
@@ -2363,7 +2414,7 @@ public final class R2 {
     public static final int start = 0x7f0d0035;
 
     @IdRes
-    public static final int status_bar_latest_event_content = 0x7f0d0098;
+    public static final int status_bar_latest_event_content = 0x7f0d00a6;
 
     @IdRes
     public static final int submenuarrow = 0x7f0d0063;
@@ -2375,19 +2426,19 @@ public final class R2 {
     public static final int tabMode = 0x7f0d0019;
 
     @IdRes
-    public static final int text = 0x7f0d00a0;
+    public static final int text = 0x7f0d00ae;
 
     @IdRes
-    public static final int text2 = 0x7f0d009e;
+    public static final int text2 = 0x7f0d00ac;
 
     @IdRes
     public static final int textSpacerNoButtons = 0x7f0d005b;
 
     @IdRes
-    public static final int textViewHide = 0x7f0d007a;
+    public static final int textViewHide = 0x7f0d0087;
 
     @IdRes
-    public static final int time = 0x7f0d009c;
+    public static final int time = 0x7f0d00aa;
 
     @IdRes
     public static final int title = 0x7f0d0051;
@@ -2402,31 +2453,43 @@ public final class R2 {
     public static final int topPanel = 0x7f0d0055;
 
     @IdRes
-    public static final int touch_outside = 0x7f0d008b;
+    public static final int touch_outside = 0x7f0d0099;
+
+    @IdRes
+    public static final int tv_fps_fw = 0x7f0d0079;
+
+    @IdRes
+    public static final int tv_fps_sn = 0x7f0d0078;
 
     @IdRes
     public static final int up = 0x7f0d0015;
 
     @IdRes
-    public static final int update = 0x7f0d00a5;
+    public static final int update = 0x7f0d00b3;
 
     @IdRes
     public static final int useLogo = 0x7f0d0020;
 
     @IdRes
+    public static final int verifyTime = 0x7f0d007e;
+
+    @IdRes
     public static final int view_offset_helper = 0x7f0d0016;
 
     @IdRes
-    public static final int viewfinder_view = 0x7f0d0095;
+    public static final int viewfinder_view = 0x7f0d00a3;
 
     @IdRes
-    public static final int webview = 0x7f0d0082;
+    public static final int webview = 0x7f0d008f;
 
     @IdRes
     public static final int withText = 0x7f0d0045;
 
     @IdRes
     public static final int wrap_content = 0x7f0d002c;
+
+    @IdRes
+    public static final int zhiwen = 0x7f0d0090;
   }
 
   public static final class integer {
@@ -2490,40 +2553,40 @@ public final class R2 {
     public static final int abc_capital_on = 0x7f070009;
 
     @StringRes
-    public static final int abc_font_family_body_1_material = 0x7f07002d;
+    public static final int abc_font_family_body_1_material = 0x7f070053;
 
     @StringRes
-    public static final int abc_font_family_body_2_material = 0x7f07002e;
+    public static final int abc_font_family_body_2_material = 0x7f070054;
 
     @StringRes
-    public static final int abc_font_family_button_material = 0x7f07002f;
+    public static final int abc_font_family_button_material = 0x7f070055;
 
     @StringRes
-    public static final int abc_font_family_caption_material = 0x7f070030;
+    public static final int abc_font_family_caption_material = 0x7f070056;
 
     @StringRes
-    public static final int abc_font_family_display_1_material = 0x7f070031;
+    public static final int abc_font_family_display_1_material = 0x7f070057;
 
     @StringRes
-    public static final int abc_font_family_display_2_material = 0x7f070032;
+    public static final int abc_font_family_display_2_material = 0x7f070058;
 
     @StringRes
-    public static final int abc_font_family_display_3_material = 0x7f070033;
+    public static final int abc_font_family_display_3_material = 0x7f070059;
 
     @StringRes
-    public static final int abc_font_family_display_4_material = 0x7f070034;
+    public static final int abc_font_family_display_4_material = 0x7f07005a;
 
     @StringRes
-    public static final int abc_font_family_headline_material = 0x7f070035;
+    public static final int abc_font_family_headline_material = 0x7f07005b;
 
     @StringRes
-    public static final int abc_font_family_menu_material = 0x7f070036;
+    public static final int abc_font_family_menu_material = 0x7f07005c;
 
     @StringRes
-    public static final int abc_font_family_subhead_material = 0x7f070037;
+    public static final int abc_font_family_subhead_material = 0x7f07005d;
 
     @StringRes
-    public static final int abc_font_family_title_material = 0x7f070038;
+    public static final int abc_font_family_title_material = 0x7f07005e;
 
     @StringRes
     public static final int abc_search_hint = 0x7f07000a;
@@ -2556,78 +2619,192 @@ public final class R2 {
     public static final int action_settings = 0x7f070018;
 
     @StringRes
-    public static final int app_name = 0x7f070019;
+    public static final int algorithm_cleanup_failed = 0x7f070019;
 
     @StringRes
-    public static final int appbar_scrolling_view_behavior = 0x7f070039;
+    public static final int algorithm_initialization_failed = 0x7f07001a;
 
     @StringRes
-    public static final int bottom_sheet_behavior = 0x7f07003a;
+    public static final int app_name = 0x7f07001b;
 
     @StringRes
-    public static final int character_counter_pattern = 0x7f07003b;
+    public static final int appbar_scrolling_view_behavior = 0x7f07005f;
 
     @StringRes
-    public static final int cleanstr = 0x7f07001a;
+    public static final int bottom_sheet_behavior = 0x7f070060;
 
     @StringRes
-    public static final int close = 0x7f07001b;
+    public static final int capture = 0x7f07001c;
 
     @StringRes
-    public static final int closeLight = 0x7f07001c;
+    public static final int capture_image_failed = 0x7f07001d;
 
     @StringRes
-    public static final int getversionstr = 0x7f07001d;
+    public static final int capture_image_success = 0x7f07001e;
 
     @StringRes
-    public static final int hide = 0x7f07001e;
+    public static final int character_counter_pattern = 0x7f070061;
 
     @StringRes
-    public static final int iscontinu = 0x7f07001f;
+    public static final int cleanstr = 0x7f07001f;
 
     @StringRes
-    public static final int jianyi = 0x7f070020;
+    public static final int clear_fingerprint_database_failed = 0x7f070020;
 
     @StringRes
-    public static final int more = 0x7f070021;
+    public static final int clear_fingerprint_database_success = 0x7f070021;
 
     @StringRes
-    public static final int nocontinu = 0x7f070022;
+    public static final int clear_fp_db = 0x7f070022;
 
     @StringRes
-    public static final int openLight = 0x7f070023;
+    public static final int close = 0x7f070023;
 
     @StringRes
-    public static final int printText = 0x7f070024;
+    public static final int closeLight = 0x7f070024;
 
     @StringRes
-    public static final int printstr = 0x7f070025;
+    public static final int close_device = 0x7f070025;
 
     @StringRes
-    public static final int psam = 0x7f070026;
+    public static final int enroll_failed_because_of_error = 0x7f070026;
 
     @StringRes
-    public static final int rfid = 0x7f070027;
+    public static final int enroll_failed_because_of_extract_feature = 0x7f070027;
 
     @StringRes
-    public static final int scanner = 0x7f070028;
+    public static final int enroll_failed_because_of_get_id = 0x7f070028;
+
+    @StringRes
+    public static final int enroll_failed_because_of_make_template = 0x7f070029;
+
+    @StringRes
+    public static final int enroll_fp = 0x7f07002a;
+
+    @StringRes
+    public static final int enroll_success = 0x7f07002b;
+
+    @StringRes
+    public static final int extract = 0x7f07002c;
+
+    @StringRes
+    public static final int fingerprint_device_close_failed = 0x7f07002d;
+
+    @StringRes
+    public static final int fingerprint_device_close_success = 0x7f07002e;
+
+    @StringRes
+    public static final int fingerprint_device_open_failed = 0x7f07002f;
+
+    @StringRes
+    public static final int fingerprint_device_open_success = 0x7f070030;
+
+    @StringRes
+    public static final int fingerprint_match = 0x7f070031;
+
+    @StringRes
+    public static final int fingerprint_not_match = 0x7f070032;
+
+    @StringRes
+    public static final int fp_collect_info = 0x7f070033;
+
+    @StringRes
+    public static final int fps_fw = 0x7f070034;
+
+    @StringRes
+    public static final int fps_sn = 0x7f070035;
+
+    @StringRes
+    public static final int generalize = 0x7f070036;
+
+    @StringRes
+    public static final int getversionstr = 0x7f070037;
+
+    @StringRes
+    public static final int hide = 0x7f070038;
+
+    @StringRes
+    public static final int identify_failed_because_of_error = 0x7f070039;
+
+    @StringRes
+    public static final int identify_failed_because_of_extract_feature = 0x7f07003a;
+
+    @StringRes
+    public static final int identify_fp = 0x7f07003b;
+
+    @StringRes
+    public static final int identify_match = 0x7f07003c;
+
+    @StringRes
+    public static final int iscontinu = 0x7f07003d;
+
+    @StringRes
+    public static final int jianyi = 0x7f07003e;
+
+    @StringRes
+    public static final int more = 0x7f07003f;
+
+    @StringRes
+    public static final int nocontinu = 0x7f070040;
+
+    @StringRes
+    public static final int not_done = 0x7f070041;
+
+    @StringRes
+    public static final int openLight = 0x7f070042;
+
+    @StringRes
+    public static final int open_device = 0x7f070043;
+
+    @StringRes
+    public static final int printText = 0x7f070044;
+
+    @StringRes
+    public static final int printstr = 0x7f070045;
+
+    @StringRes
+    public static final int psam = 0x7f070046;
+
+    @StringRes
+    public static final int rfid = 0x7f070047;
+
+    @StringRes
+    public static final int scanner = 0x7f070048;
 
     @StringRes
     public static final int search_menu_title = 0x7f070013;
 
     @StringRes
-    public static final int showmsg = 0x7f070029;
+    public static final int show_fp = 0x7f070049;
 
     @StringRes
-    public static final int showtext = 0x7f07002a;
+    public static final int showmsg = 0x7f07004a;
+
+    @StringRes
+    public static final int showtext = 0x7f07004b;
 
     @StringRes
     public static final int status_bar_notification_info_overflow = 0x7f070014;
 
     @StringRes
-    public static final int update = 0x7f07002b;
+    public static final int update = 0x7f07004c;
 
     @StringRes
-    public static final int usbctrl = 0x7f07002c;
+    public static final int usbctrl = 0x7f07004d;
+
+    @StringRes
+    public static final int verify = 0x7f07004e;
+
+    @StringRes
+    public static final int verify_failed_because_of_error = 0x7f07004f;
+
+    @StringRes
+    public static final int verify_failed_because_of_extract_feature = 0x7f070050;
+
+    @StringRes
+    public static final int verify_fp = 0x7f070051;
+
+    @StringRes
+    public static final int zhiwen = 0x7f070052;
   }
 }

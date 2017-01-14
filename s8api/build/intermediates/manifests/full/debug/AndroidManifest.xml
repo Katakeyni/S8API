@@ -11,6 +11,10 @@
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.usb.host" />
+
     <uses-permission android:name="android.permission.FLASHLIGHT" />
 
     <uses-feature android:name="android.hardware.camera" />
@@ -42,6 +46,10 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.szxb.s8api.WebViewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.szxb.s8api.Fingerprint"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
     </application>

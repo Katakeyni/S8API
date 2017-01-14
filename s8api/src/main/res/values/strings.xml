@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:xliff="http://schemas.android.com/tools">
     <string name="app_name">S8API</string>
 
     <string name="action_settings">Settings</string>
@@ -20,10 +20,50 @@
     <string name="nocontinu">Single</string>
     <string name="close">CLOSE</string>
     <string name="WebView">WebView</string>
+    <string name="zhiwen">Fingerpint</string>
+
     <string name="showtext">welcome!</string>
     <string name="rfid">frid</string>
 
     <string name="printText">printText----test</string>
 
     <string name="jianyi">Recommended to keep 10cm distance with lens</string>
+
+    <string name="fps_sn">Fingerprint device serial number is <xliff:g>%1$s</xliff:g>.</string>
+    <string name="fps_fw">Fingerprint device firmware version is <xliff:g>%1$s</xliff:g>.</string>
+    <string name="open_device">Open device</string>
+    <string name="close_device">Close device</string>
+    <string name="fp_collect_info">Single fingerprint collection information:</string>
+    <string name="capture">Capture image:</string>
+    <string name="extract">Extract feature:</string>
+    <string name="generalize">Make template:</string>
+    <string name="verify">Verify or identify:</string>
+    <string name="enroll_fp">Enroll</string>
+    <string name="verify_fp">Verify</string>
+    <string name="identify_fp">Identify</string>
+    <string name="clear_fp_db">Clear database</string>
+    <string name="show_fp">Show image</string>
+    <string name="fingerprint_device_open_success">Fingerprint device open success!</string>
+    <string name="fingerprint_device_open_failed">Fingerprint device open failed! Error code: </string>
+    <string name="fingerprint_device_close_success">Fingerprint device close success!</string>
+    <string name="fingerprint_device_close_failed">Fingerprint device close failed! Error code: </string>
+    <string name="algorithm_initialization_failed">Algorithm initialization failed! Error code: </string>
+    <string name="algorithm_cleanup_failed">Algorithm cleanup failed! Error code: </string>
+    <string name="not_done">Not done yet</string>
+    <string name="capture_image_success">Capture fingerprint image success!</string>
+    <string name="capture_image_failed">Capture fingerprint image failed! Error code: </string>
+    <string name="enroll_failed_because_of_extract_feature">Enroll failed because extract feature return error! Error code: </string>
+    <string name="enroll_failed_because_of_make_template">Enroll failed because make template return error! Error code: </string>
+    <string name="enroll_failed_because_of_get_id">Enroll failed because get free ID return error! Error code: </string>
+    <string name="enroll_failed_because_of_error">Enroll failed! Error code: </string>
+    <string name="enroll_success">Enroll success! The enrolled fingerprint ID is </string>
+    <string name="verify_failed_because_of_extract_feature">Verify failed because extract feature return error! Error code: </string>
+    <string name="verify_failed_because_of_error">Verify failed! Error code: </string>
+    <string name="fingerprint_not_match">Fingerprint does not match!</string>
+    <string name="fingerprint_match">Fingerprint match!</string>
+    <string name="identify_failed_because_of_extract_feature">Identify failed because extract feature return error! Error code: </string>
+    <string name="identify_failed_because_of_error">Identify failed! Error code: </string>
+    <string name="identify_match">Identify success! The matched fingerprint ID is </string>
+    <string name="clear_fingerprint_database_success">Clear fingerprint database success!</string>
+    <string name="clear_fingerprint_database_failed">Clear fingerprint database failed! Error code: </string>
 </resources>
