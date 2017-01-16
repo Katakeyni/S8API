@@ -13,6 +13,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.szxb.api.jni_interface.api_interface;
+
 import cn.com.aratek.fp.Bione;
 import cn.com.aratek.fp.FingerprintImage;
 import cn.com.aratek.fp.FingerprintScanner;
@@ -86,6 +88,18 @@ public class Fingerprint extends AppCompatActivity implements View.OnClickListen
         enableControl(false);
 
         updateSingerTestText(-1, -1, -1, -1);
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+//        api_interface.usbctrl((byte) 2);
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+//        api_interface.usbctrl((byte) 3);
     }
 
     @Override
