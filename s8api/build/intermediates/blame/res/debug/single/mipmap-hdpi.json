@@ -1,38 +1,74 @@
 [
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/icon.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/icon.png"
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\nophoto.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\nophoto.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/button_normal.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/button_normal.png"
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/nofinger.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/nofinger.png"
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\icon.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/button_pressed.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/button_pressed.png"
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\edittext.9.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-hdpi\\edittext.9.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\button_normal.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\button_normal.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/test2dbarcode.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/test2dbarcode.png"
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\nofinger.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\nofinger.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/nophoto.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/nophoto.png"
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\button_normal.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-hdpi\\button_normal.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/szxb.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/szxb.png"
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\test2dbarcode.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\test2dbarcode.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-hdpi/edittext.9.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-hdpi/edittext.9.png"
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\edittext.9.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\edittext.9.png"
+    },
+    {
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\test2dbarcode.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-hdpi\\test2dbarcode.png"
+    },
+    {
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\button_pressed.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-hdpi\\button_pressed.png"
+    },
+    {
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\nofinger.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-hdpi\\nofinger.png"
+    },
+    {
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\nophoto.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-hdpi\\nophoto.png"
+    },
+    {
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\szxb.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-hdpi\\szxb.png"
+    },
+    {
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\button_pressed.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\button_pressed.png"
+    },
+    {
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\szxb.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-hdpi\\szxb.png"
     }
 ]

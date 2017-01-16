@@ -5,15 +5,15 @@ import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.szxb.api.jni_interface.api_interface;
 
 import cn.com.aratek.fp.Bione;
 import cn.com.aratek.fp.FingerprintImage;
@@ -48,11 +48,12 @@ public class Fingerprint extends AppCompatActivity implements View.OnClickListen
     private FingerprintScanner mScanner;
     private int mId;
     private boolean mDeviceOpened = false;
+    private Toolbar mToolbar;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_fingerprint);
+        setContentView(R.layout.activity_fingerprint2);
 
         mScanner = new FingerprintScanner(this);
         mScanner.setOnUsbPermissionGrantedListener(new OnUsbPermissionGrantedListener() {
@@ -78,6 +79,8 @@ public class Fingerprint extends AppCompatActivity implements View.OnClickListen
         mVerifyTime = (EditText) findViewById(R.id.verifyTime);
         mFingerprintImage = (ImageView) findViewById(R.id.fingerimage);
 
+        mToolbar = (Toolbar) findViewById(R.id.mtoolbar);
+
         mBtnOpenOrCloseDevice = (Button) findViewById(R.id.bt_open_close);
         mBtnEnroll = (Button) findViewById(R.id.bt_enroll);
         mBtnVerify = (Button) findViewById(R.id.bt_verify);
@@ -88,6 +91,10 @@ public class Fingerprint extends AppCompatActivity implements View.OnClickListen
         enableControl(false);
 
         updateSingerTestText(-1, -1, -1, -1);
+
+        mToolbar.setTitle("指纹模块");
+        setSupportActionBar(mToolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
     @Override
@@ -365,6 +372,14 @@ public class Fingerprint extends AppCompatActivity implements View.OnClickListen
         Log.i(TAG, "Fingerprint image quality is " + Bione.getFingerprintQuality(fi));
         updateFingerprintImage(fi);
         updateSingerTestText(captureTime, -1, -1, -1);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == android.R.id.home) {
+            finish();
+        }
+        return super.onOptionsItemSelected(item);
     }
 }
 

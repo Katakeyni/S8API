@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-mdpi/szxb.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-mdpi/szxb.png"
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\szxb.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-mdpi\\szxb.png"
     },
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\szxb.png",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\mipmap-mdpi\\szxb.png"
     }
 ]

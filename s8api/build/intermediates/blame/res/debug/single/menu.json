@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/lilei/windowsShare/ContentProvider/s8api/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/home/lilei/windowsShare/ContentProvider/s8api/src/main/res/menu/menu_main.xml"
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]
