@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
@@ -32,12 +32,12 @@
         "source": "E:\\home\\lilei\\windowsShare\\ContentProvider\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_capture.xml",
-        "source": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\exploded-aar\\sp\\xbzxinglibrary\\unspecified\\res\\layout\\fragment_capture.xml"
-    },
-    {
         "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_capture.xml",
+        "source": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\exploded-aar\\sp\\xbzxinglibrary\\unspecified\\res\\layout\\fragment_capture.xml"
     },
     {
         "merged": "E:\\AS_PM\\S8\\sp\\s8api\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
